@@ -5,22 +5,33 @@ A curated list of papers for generalist agents in both digital and physical worl
 We welcome contributions. If you have new papers or implementations to share, feel free to open a pull request.
 
 - [Awesome-Generalist-Agents](#awesome-generalist-agents)
-  - [Foundation Generlist Models](#foundation-generalist-models)
+  - [Foundation Generalist Models](#foundation-generalist-models)
   - [Generalist Embodied Agents](#embodied-agents)
   - [Generalist Web Agents](#generalist-web-agents)
 
 ---
 
 ## Foundation Generlist Models
+### Large Multi-Modal Models
+
+### 
 
 
+## Generalist Embodied Agents
+### Vision-Language-Action (VLA) Models
+|  Date |       keywords          | Paper                                                                                                                                                                               | Publication | Others |
+| :-----: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| June 2024 | OpenVLA | [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/abs/2406.09246) | CORL '24 | [project](https://openvla.github.io/) |
 
-## Generlist Embodied Agents
 
-
+### 
+|  Date |       keywords          | Paper                                                                                                                                                                               | Publication | Others |
+| :-----: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| Dec 2022 | RT-1 | [RT-1: Robotics Transformer for Real-World Control at Scale](https://arxiv.org/abs/2406.09246) | CORL '24 | [project](https://robotics-transformer1.github.io/) |
 
 ## Generlist Web Agents
 
 
---- 
-If you have questions or suggestions, feel free to contact .
+
+## 🌷
+For any questions or suggestions, please contact [Yongyuan Liang](https://cheryyunl.github.io/) or [Ruihan Yang](https://rchalyang.github.io/).
