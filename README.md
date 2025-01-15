@@ -44,7 +44,6 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 |  Date |       keywords          | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
 | Jan 2024 | SeeAct | [GPT-4V(ision) is a Generalist Web Agent, if Grounded](https://arxiv.org/abs/2401.01614) | ICML'24 | [Project](https://osu-nlp-group.github.io/SeeAct/) |
-
 | Oct 2024 | OS-ATLAS | [OS-ATLAS: A Foundation Action Model for Generalist GUI Agents](https://arxiv.org/abs/2410.23218) | ArXiv'24 | [Project](https://osatlas.github.io/) |
 
 
