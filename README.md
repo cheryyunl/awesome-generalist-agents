@@ -37,7 +37,7 @@ A curated list of papers for generalist AI agents in both digital and physical w
 
 
 
-### Generalist Agents for Websites
+### Generalist Agents for Websites (or Other Realistic Tasks)
 |  Date |       keywords          | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
 | Jan 2024 | SeeAct | [GPT-4V(ision) is a Generalist Web Agent, if Grounded](https://arxiv.org/abs/2401.01614) | ICML'24 | [Project](https://osu-nlp-group.github.io/SeeAct/) |
@@ -57,6 +57,8 @@ A curated list of papers for generalist AI agents in both digital and physical w
 
 
 
+
 ## 🌷
 We always welcome contributions. If you find any interesting papers that are not included in this collection, feel free to open a pull request.
+
 For any questions or suggestions, please contact [Yongyuan Liang](https://cheryyunl.github.io/) or [Ruihan Yang](https://rchalyang.github.io/).
