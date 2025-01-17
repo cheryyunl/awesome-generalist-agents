@@ -19,12 +19,13 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 
 
 ## Generalist Embodied Agents
-### Vision-Language-Action (VLA) Models
+### Large Vision-Language-Action (VLA) Models
 |  Date |       keywords          | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
 | Dec 2022 | RT-1 | [RT-1: Robotics Transformer for Real-World Control at Scale](https://arxiv.org/abs/2406.09246) | RSS'23 | [Project](https://robotics-transformer1.github.io/) |
 | July 2023 | RT-2 | [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/abs/2307.15818) | ArXiv'23 | [Project](https://robotics-transformer2.github.io/) |
 | Nov 2023 | LEO | [An embodied generalist agent in 3d world](https://arxiv.org/abs/2311.12871) | ICML'24 | [Project](https://embodied-generalist.github.io/) |
+| Dec 2023 | GR-1 | [Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation](https://arxiv.org/abs/2312.13139) | ArXiv'23 | [Project](https://gr1-manipulation.github.io/) |
 | Mar 2024 | 3D-VLA | [3D-VLA: A 3D Vision-Language-Action Generative World Model](https://arxiv.org/abs/2403.09631) | ICML'24 | [Project](https://vis-www.cs.umass.edu/3dvla) |
 | May 2024 | Octo | [Octo: An Open-Source Generalist Robot Policy](https://arxiv.org/abs/2403.09618) | ArXiv'24 | [Project](https://octo-models.github.io/) |
 | Jun 2024 | OpenVLA | [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/abs/2406.09246) | CORL'24 | [Project](https://openvla.github.io/) |
@@ -43,7 +44,7 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 | Jan 2025 | FAST | [FAST: Efficient Action Tokenization for Vision-Language-Action Models](https://www.pi.website/download/fast.pdf) | ArXiv'25 | [Project](https://www.pi.website/research/fast) |
 
 
-### Other Generalist Policies
+### Generalist Policies
 
 |  Date |       keywords          | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
