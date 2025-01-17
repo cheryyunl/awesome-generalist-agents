@@ -106,6 +106,7 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 ### For Embodied Agents
 |  Date |       keywords          | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| Oct 2023 | Open X-Embodiment | [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864) | ArXiv'24 | [Project](https://robotics-transformer-x.github.io/) |
 | Dec 2024 | RoboMIND | [RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation](https://arxiv.org/abs/2412.13877) | ArXiv'24 | [Project](https://x-humanoid-robomind.github.io/) |
 | Dec 2024 | VLABench | [VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks](https://arxiv.org/abs/2412.18194) | ArXiv'24 | [Project](https://vlabench.github.io/) |
 
