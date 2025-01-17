@@ -19,10 +19,11 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 
 
 ## Generalist Embodied Agents
-### Large Vision-Language-Action (VLA) Models
+### Large Vision-Language (Action) Models
 |  Date |       keywords          | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
 | Dec 2022 | RT-1 | [RT-1: Robotics Transformer for Real-World Control at Scale](https://arxiv.org/abs/2406.09246) | RSS'23 | [Project](https://robotics-transformer1.github.io/) |
+| Mar 2023 | PaLM-E | [PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378) | ArXiv'23 | [Project](https://palm-e.github.io/) |
 | July 2023 | RT-2 | [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/abs/2307.15818) | ArXiv'23 | [Project](https://robotics-transformer2.github.io/) |
 | Nov 2023 | LEO | [An embodied generalist agent in 3d world](https://arxiv.org/abs/2311.12871) | ICML'24 | [Project](https://embodied-generalist.github.io/) |
 | Nov 2023 | RoboFlamingo | [Vision-Language Foundation Models as Effective Robot Imitators](https://arxiv.org/abs/2311.01378) | ArXiv'23 | [Project](https://roboflamingo.github.io/) |
@@ -35,6 +36,7 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 | Oct 2024 | GR-2 | [GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation](https://arxiv.org/abs/2410.06158) | ArXiv'24 | [Project](https://gr2-manipulation.github.io/) |
 | Oct 2024 | LAPA | [Latent Action Pretraining from Videos](https://arxiv.org/abs/2410.11758) | ArXiv'24 | [Project](https://latentactionpretraining.github.io/) |
 | Oct 2024 | π0 | [π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/abs/2410.24164) | ArXiv'24 | [Project](https://www.physicalintelligence.company/blog/pi0) |
+| Oct 2024 | RDT-1B | [RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation](https://arxiv.org/abs/2410.07864) | ArXiv'24 | [Project](https://rdt-robotics.github.io/rdt-robotics/) |
 | Nov 2024 | CogACT | [CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation](https://arxiv.org/abs/2411.xxxxx) | ArXiv'24 | [Project](https://cogact.github.io/) |
 | Nov 2024 | RT-Affordance | [RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation](https://arxiv.org/abs/2411.02704) | ArXiv'24 | [Project](https://snasiriany.me/rt-affordance) |
 | Dec 2024 | Diffusion-VLA | [Diffusion-VLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression](https://arxiv.org/abs/2412.03293) | ArXiv'24 | [Project](https://diffusion-vla.github.io/) |
@@ -45,7 +47,7 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 | Jan 2025 | FAST | [FAST: Efficient Action Tokenization for Vision-Language-Action Models](https://www.pi.website/download/fast.pdf) | ArXiv'25 | [Project](https://www.pi.website/research/fast) |
 
 
-### Generalist Policies
+### Generalist Robotics Policies
 
 |  Date |       keywords          | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
@@ -122,13 +124,16 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 ### For Embodied Agents
 |  Date |       keywords          | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| Jun 2023 | LIBERO | [LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning](https://arxiv.org/abs/2306.03310) | NeurIPS'23 | [Project](https://libero-project.github.io/main.html) |
 | Oct 2023 | Open X-Embodiment | [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864) | ArXiv'24 | [Project](https://robotics-transformer-x.github.io/) |
+| Oct 2023 | GenSim | [GenSim: Generating Robotic Simulation Tasks via Large Language Models](https://arxiv.org/abs/2310.01361) | ICLR'24 | [Project](https://gen-sim.github.io/) |
 | Aug 2024 | ARIO | [All Robots in One: A New Standard and Unified Dataset for Versatile, General-Purpose Embodied Agents](https://arxiv.org/abs/2408.10899) | ArXiv'24 | [Project](https://imaei.github.io/project_pages/ario/) |
 | May 2024 | Simpler | [Evaluating Real-World Robot Manipulation Policies in Simulation](https://arxiv.org/abs/2405.05941) | ArXiv'24 | [Project](https://simpler-env.github.io/) |
 | Jun 2024 | ManiSkill3 | [ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI](https://arxiv.org/abs/2406.02523) | ArXiv'24 | [Project](https://www.maniskill.ai/home) |
 | Jul 2024 | RoboCasa | [RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots](https://arxiv.org/abs/2407.10943) | ArXiv'24 | [Project](https://robocasa.ai/) |
 | Jul 2024 | GRUtopia | [GRUtopia: Dream General Robots in a City at Scale](https://arxiv.org/abs/2407.10943) | ArXiv'24 | [Project](https://github.com/OpenRobotLab/GRUtopia) |
 | Oct 2024 | Genesis | [Genesis: A Generative and Universal Physics Engine for Robotics and Beyond](https://arxiv.org/abs/2410.00425) | ArXiv'24 | [Project](https://genesis-embodied-ai.github.io/) |
+| Oct 2024 | GenSim2 | [GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs](https://arxiv.org/abs/2410.03645) | CORL'24 | [Project](https://gensim2.github.io/) |
 | Dec 2024 | RoboMIND | [RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation](https://arxiv.org/abs/2412.13877) | ArXiv'24 | [Project](https://x-humanoid-robomind.github.io/) |
 | Dec 2024 | VLABench | [VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks](https://arxiv.org/abs/2412.18194) | ArXiv'24 | [Project](https://vlabench.github.io/) |
 
@@ -163,6 +168,6 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 
 
 ## 🌷
-We always welcome contributions. If you find any interesting papers that are not included in this collection, feel free to open a pull request.
+We are currently under ongoing updates and always welcome contributions. If you find any interesting papers that are not included in this collection, feel free to open a pull request.
 
 For any questions or suggestions, please contact [Yongyuan Liang](https://cheryyunl.github.io/) or [Ruihan Yang](https://rchalyang.github.io/).
