@@ -115,10 +115,9 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 | Oct 2023 | Open X-Embodiment | [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864) | ArXiv'24 | [Project](https://robotics-transformer-x.github.io/) |
 | May 2024 | Simpler | [Evaluating Real-World Robot Manipulation Policies in Simulation](https://arxiv.org/abs/2405.05941) | ArXiv'24 | [Project](https://simpler-env.github.io/) |
 | Jun 2024 | ManiSkill3 | [ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI](https://arxiv.org/abs/2406.02523) | ArXiv'24 | [Project](https://www.maniskill.ai/home) |
-| Jul 2024 | RoboCasa | [RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots](https://arxiv.org/abs/2407.10943) | ArXiv'24 | [Project](https://robocasa.ai/) / [Code](https://github.com/robocasa/robocasa) |
-](https://arxiv.org/abs/2407.10943),
+| Jul 2024 | RoboCasa | [RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots](https://arxiv.org/abs/2407.10943) | ArXiv'24 | [Project](https://robocasa.ai/) |
 | Jul 2024 | GRUtopia | [GRUtopia: Dream General Robots in a City at Scale](https://arxiv.org/abs/2407.10943) | ArXiv'24 | [Project](https://github.com/OpenRobotLab/GRUtopia) |
-| Oct 2024 | Genesis | [Genesis: A Generative and Universal Physics Engine for Robotics and Beyond](https://arxiv.org/abs/2410.00425) | ArXiv'24 | [Code](https://github.com/Genesis-Embodied-AI/Genesis) / [Website](https://genesis-embodied-ai.github.io/) |
+| Oct 2024 | Genesis | [Genesis: A Generative and Universal Physics Engine for Robotics and Beyond](https://arxiv.org/abs/2410.00425) | ArXiv'24 | [Project](https://genesis-embodied-ai.github.io/) |
 | Dec 2024 | RoboMIND | [RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation](https://arxiv.org/abs/2412.13877) | ArXiv'24 | [Project](https://x-humanoid-robomind.github.io/) |
 | Dec 2024 | VLABench | [VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks](https://arxiv.org/abs/2412.18194) | ArXiv'24 | [Project](https://vlabench.github.io/) |
 
