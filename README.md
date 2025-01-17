@@ -29,11 +29,17 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 | Mar 2024 | 3D-VLA | [3D-VLA: A 3D Vision-Language-Action Generative World Model](https://arxiv.org/abs/2403.09631) | ICML'24 | [Project](https://vis-www.cs.umass.edu/3dvla) |
 | May 2024 | Octo | [Octo: An Open-Source Generalist Robot Policy](https://arxiv.org/abs/2403.09618) | ArXiv'24 | [Project](https://octo-models.github.io/) |
 | June 2024 | OpenVLA | [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/abs/2406.09246) | CORL'24 | [Project](https://openvla.github.io/) |
+| Oct 2024 | GR-2 | [GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation](https://arxiv.org/abs/2410.06158) | ArXiv'24 | [Project](https://gr2-manipulation.github.io/) |
 
 ### Other Generalist Policies
 
-### Multimodal World Models
+|  Date |       keywords          | Paper                                                                                                                                                                               | Publication | Others |
+| :-----: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| Sep 2024 | RUMs | [Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments](https://arxiv.org/abs/2409.05865) | ArXiv'24 | [Project](https://robotutilitymodels.com/) |
 
+### Multimodal World Models
+|  Date |       keywords          | Paper                                                                                                                                                                               | Publication | Others |
+| :-----: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
 
 
 
@@ -68,7 +74,6 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 | Jan 2024 | Mobile-Agent | [Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception](https://arxiv.org/abs/2401.16158) | ArXiv'24 | [Project](https://github.com/X-PLUG/MobileAgent) |
 | Jan 2024 | WebVoyager | [WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models](https://arxiv.org/abs/2401.13919) | ACL'24 | [Project](https://github.com/web-voyager/webvoyager) |
 | Jan 2024 | SeeClick | [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935) | ArXiv'24 | [Project](https://github.com/njucckevin/SeeClick)|
-| Jan 2024 | InfiGUIAgent | [InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection](https://arxiv.org/abs/2501.04575) | ArXiv'24 | [Project](https://github.com/Reallm-Labs/InfiGUIAgent) |
 | Jan 2024 | Mobile-Agent | [Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception](https://arxiv.org/abs/2401.16158) | ArXiv'24 | [Project](https://github.com/X-PLUG/MobileAgent) |
 | Feb 2024 | OS-Copilot | [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/abs/2402.07456) | ArXiv'24 | [Project](https://os-copilot.github.io/) |
 | Feb 2024 | ScreenAgent | [ScreenAgent: A Vision Language Model-driven Computer Control Agent](https://arxiv.org/abs/2402.07945) | ArXiv'24 | [Project](https://github.com/niuzaisheng/ScreenAgent) |
@@ -78,8 +83,7 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 | Aug 2024 | Agent Q | [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/abs/2408.07199) | ArXiv'24 | [Project](https://github.com/sentient-engineering/agent-q) |
 | Oct 2024 | OS-ATLAS | [OS-ATLAS: A Foundation Action Model for Generalist GUI Agents](https://arxiv.org/abs/2410.23218) | ArXiv'24 | [Project](https://osatlas.github.io/) |
 | Nov 2024 | ShowUI | [ShowUI: One Vision-Language-Action Model for GUI Visual Agent](https://arxiv.org/abs/2411.17465) | ArXiv'24 | [Project](https://github.com/showlab/ShowUI/) |
-
-
+| Jan 2025 | InfiGUIAgent | [InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection](https://arxiv.org/abs/2501.04575) | ArXiv'25 | [Project](https://github.com/Reallm-Labs/InfiGUIAgent) |
 
 
 
