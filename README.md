@@ -48,7 +48,7 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 
 |  Date |       keywords          | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
-| Jun 2024 | RoboPoint | [RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics](https://arxiv.org/abs/2406.10721) | ArXiv'24 | [Project](https://robo-point.github.io/) |
+| Jun 2024 | RoboPoint | [RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics](https://arxiv.org/abs/2406.10721) | CORL'24 | [Project](https://robo-point.github.io/) |
 | Aug 2024 | Crossformer | [Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation](https://arxiv.org/abs/2408.11812) | CORL'24 | [Project](https://crossformer-model.github.io/) |
 | Sep 2024 | HPT | [Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers](https://arxiv.org/abs/2409.20537) | NeurIPS'24 | [Project](https://liruiw.github.io/hpt/) |
 | Sep 2024 | RUMs | [Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments](https://arxiv.org/abs/2409.05865) | ArXiv'24 | [Project](https://robotutilitymodels.com/) |
@@ -62,6 +62,10 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 ### Multimodal World Models
 |  Date |       keywords          | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| Mar 2018 | World Models | [World Models](https://arxiv.org/abs/1803.10122) | ArXiv'18 | [Project](https://worldmodels.github.io/) |
+| Jan 2023 | DreamerV3 | [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104) | ArXiv'23 | [Project](https://danijar.com/project/dreamerv3/) |
+| Aug 2023 | Human World Model | [Structured World Models from Human Videos](https://arxiv.org/abs/2308.10901) | RSS'23 | [Project](https://human-world-model.github.io/) |
+| Feb 2024 | World Models | [The Essential Role of Causality in Foundation World Models for Embodied AI](https://arxiv.org/abs/2402.06665) | ArXiv'24 | [Project]() |
 | Nov 2024 | WHALE | [WHALE: Towards Generalizable and Scalable World Models for Embodied Decision-making](https://arxiv.org/abs/2411.05619) | ArXiv'24 | [Project]() |
 
 
