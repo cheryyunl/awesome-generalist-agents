@@ -48,6 +48,7 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 
 |  Date |       keywords          | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| Jun 2024 | RoboPoint | [RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics](https://arxiv.org/abs/2406.10721) | ArXiv'24 | [Project](https://robo-point.github.io/) |
 | Aug 2024 | Crossformer | [Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation](https://arxiv.org/abs/2408.11812) | CORL'24 | [Project](https://crossformer-model.github.io/) |
 | Sep 2024 | HPT | [Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers](https://arxiv.org/abs/2409.20537) | NeurIPS'24 | [Project](https://liruiw.github.io/hpt/) |
 | Sep 2024 | RUMs | [Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments](https://arxiv.org/abs/2409.05865) | ArXiv'24 | [Project](https://robotutilitymodels.com/) |
@@ -113,6 +114,7 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 |  Date |       keywords          | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
 | Oct 2023 | Open X-Embodiment | [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864) | ArXiv'24 | [Project](https://robotics-transformer-x.github.io/) |
+| Aug 2024 | ARIO | [All Robots in One: A New Standard and Unified Dataset for Versatile, General-Purpose Embodied Agents](https://arxiv.org/abs/2408.10899) | ArXiv'24 | [Project](https://imaei.github.io/project_pages/ario/) |
 | May 2024 | Simpler | [Evaluating Real-World Robot Manipulation Policies in Simulation](https://arxiv.org/abs/2405.05941) | ArXiv'24 | [Project](https://simpler-env.github.io/) |
 | Jun 2024 | ManiSkill3 | [ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI](https://arxiv.org/abs/2406.02523) | ArXiv'24 | [Project](https://www.maniskill.ai/home) |
 | Jul 2024 | RoboCasa | [RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots](https://arxiv.org/abs/2407.10943) | ArXiv'24 | [Project](https://robocasa.ai/) |
