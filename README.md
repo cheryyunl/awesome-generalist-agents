@@ -30,11 +30,13 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 | May 2024 | Octo | [Octo: An Open-Source Generalist Robot Policy](https://arxiv.org/abs/2403.09618) | ArXiv'24 | [Project](https://octo-models.github.io/) |
 | Jun 2024 | OpenVLA | [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/abs/2406.09246) | CORL'24 | [Project](https://openvla.github.io/) |
 | Jun 2024 | LLARVA | [LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning](https://arxiv.org/abs/2406.11815) | ArXiv'24 | [Project](https://llarva24.github.io/) |
+| Sep 2024 | TinyVLA | [TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/abs/2409.12514) | ArXiv'24 | [Project](https://tiny-vla.github.io/) |
 | Oct 2024 | GR-2 | [GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation](https://arxiv.org/abs/2410.06158) | ArXiv'24 | [Project](https://gr2-manipulation.github.io/) |
 | Oct 2024 | LAPA | [Latent Action Pretraining from Videos](https://arxiv.org/abs/2410.11758) | ArXiv'24 | [Project](https://latentactionpretraining.github.io/) |
 | Oct 2024 | π0 | [π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/abs/2410.24164) | ArXiv'24 | [Project](https://www.physicalintelligence.company/blog/pi0) |
 | Nov 2024 | CogACT | [CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation](https://arxiv.org/abs/2411.xxxxx) | ArXiv'24 | [Project](https://cogact.github.io/) |
 | Nov 2024 | RT-Affordance | [RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation](https://arxiv.org/abs/2411.02704) | ArXiv'24 | [Project](https://snasiriany.me/rt-affordance) |
+| Dec 2024 | Diffusion-VLA | [Diffusion-VLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression](https://arxiv.org/abs/2412.03293) | ArXiv'24 | [Project](https://diffusion-vla.github.io/) |
 | Dec 2024 | RoboVLMs | [Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models](https://arxiv.org/abs/2412.14058) | ArXiv'24 | [Project](https://robovlms.github.io/) |
 | Dec 2024 | Moto | [Moto: Latent Motion Token as the Bridging Language for Robot Manipulation](https://arxiv.org/abs/2412.04445) | ArXiv'24 | [Project](https://chenyi99.github.io/moto/) |
 | Dec 2024 | TraceVLA | [TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies](https://arxiv.org/abs/2412.10345) | ArXiv'24 | [Project](https://tracevla.github.io/) |
@@ -46,7 +48,7 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 | :-----: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
 | Sep 2024 | RUMs | [Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments](https://arxiv.org/abs/2409.05865) | ArXiv'24 | [Project](https://robotutilitymodels.com/) |
 | Sep 2024 | FLaRe | [FLaRe: Achieving Masterful and Adaptive Robot Policies with Large-Scale Reinforcement Learning Fine-Tuning](https://arxiv.org/abs/2409.16578) | ArXiv'24 | [Project](https://robot-flare.github.io/) |
-| Oct 2024 | [Data Scaling Laws in Imitation Learning for Robotic Manipulation](https://arxiv.org/abs/2410.18647) | ArXiv'24 | [Project](https://data-scaling-laws.github.io/) |
+| Oct 2024 | Law in IL | [Data Scaling Laws in Imitation Learning for Robotic Manipulation](https://arxiv.org/abs/2410.18647) | ArXiv'24 | [Project](https://data-scaling-laws.github.io/) |
 
 
 
