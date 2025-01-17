@@ -25,6 +25,7 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 | Dec 2022 | RT-1 | [RT-1: Robotics Transformer for Real-World Control at Scale](https://arxiv.org/abs/2406.09246) | RSS'23 | [Project](https://robotics-transformer1.github.io/) |
 | July 2023 | RT-2 | [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/abs/2307.15818) | ArXiv'23 | [Project](https://robotics-transformer2.github.io/) |
 | Nov 2023 | LEO | [An embodied generalist agent in 3d world](https://arxiv.org/abs/2311.12871) | ICML'24 | [Project](https://embodied-generalist.github.io/) |
+| Nov 2023 | RoboFlamingo | [Vision-Language Foundation Models as Effective Robot Imitators](https://arxiv.org/abs/2311.01378) | ArXiv'23 | [Project](https://roboflamingo.github.io/) |
 | Dec 2023 | GR-1 | [Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation](https://arxiv.org/abs/2312.13139) | ArXiv'23 | [Project](https://gr1-manipulation.github.io/) |
 | Mar 2024 | 3D-VLA | [3D-VLA: A 3D Vision-Language-Action Generative World Model](https://arxiv.org/abs/2403.09631) | ICML'24 | [Project](https://vis-www.cs.umass.edu/3dvla) |
 | May 2024 | Octo | [Octo: An Open-Source Generalist Robot Policy](https://arxiv.org/abs/2403.09618) | ArXiv'24 | [Project](https://octo-models.github.io/) |
@@ -48,6 +49,10 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 
 |  Date |       keywords          | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| Apr 2021 | Mt-Opt | [Mt-Opt: Continuous Multi-Task Robotic Reinforcement Learning at Scale](https://arxiv.org/abs/2104.08212) | ArXiv'21 | [Project](https://karolhausman.github.io/mt-opt/) |
+| Jun 2023 | RoboCat | [RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation](https://arxiv.org/abs/2306.11706) | ArXiv'23 | [Report](https://deepmind.google/discover/blog/robocat-a-self-improving-robotic-agent/) |
+| Sep 2023 | RoboAgent | [RoboAgent: Generalization and Efficiency in Robot Manipulation via Semantic Augmentations and Action Chunking](https://arxiv.org/abs/2309.01918) | ICRA'24 | [Project](https://robopen.github.io/) |
+| Feb 2024 | Extreme Cross-Embodiment | [Pushing the Limits of Cross-Embodiment Learning for Manipulation and Navigation](https://arxiv.org/abs/2402.19432) | RSS'24 | [Project](https://extreme-cross-embodiment.github.io/) |
 | Jun 2024 | RoboPoint | [RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics](https://arxiv.org/abs/2406.10721) | CORL'24 | [Project](https://robo-point.github.io/) |
 | Aug 2024 | Crossformer | [Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation](https://arxiv.org/abs/2408.11812) | CORL'24 | [Project](https://crossformer-model.github.io/) |
 | Sep 2024 | HPT | [Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers](https://arxiv.org/abs/2409.20537) | NeurIPS'24 | [Project](https://liruiw.github.io/hpt/) |
