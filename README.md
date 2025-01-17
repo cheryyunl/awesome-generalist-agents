@@ -15,7 +15,7 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 |  Date |       keywords          | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
 | May 2022 | Gato | [A Generalist Agent](https://arxiv.org/abs/2205.06175) | TMLR'22 | [Report](https://deepmind.google/discover/blog/a-generalist-agent/) |
-| Feb 2024 | [Interactive Agent Foundation Model | An Interactive Agent Foundation Model](https://arxiv.org/abs/2402.05929) | ArXiv'24 | [Report](https://www.microsoft.com/en-us/research/publication/interactive-agent-foundation-model/) |
+| Feb 2024 | Interactive Agent Foundation Model | [An Interactive Agent Foundation Model](https://arxiv.org/abs/2402.05929) | ArXiv'24 | [Report](https://www.microsoft.com/en-us/research/publication/interactive-agent-foundation-model/) |
 
 
 
@@ -112,7 +112,6 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 ### General Benchmarks
 |  Date |       keywords          | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
-
 | Aug 2024 | VisualAgentBench | [VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents](https://arxiv.org/abs/2408.06327) | ArXiv'24 | [Project](https://github.com/THUDM/VisualAgentBench/) |
 
 
