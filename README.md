@@ -3,7 +3,6 @@
 A curated list of papers for generalist AI agents in both virtual and physical worlds.
 
 - [Awesome-Generalist-Agents](#awesome-generalist-agents)
-  - [Foundation Generalist Models](#foundation-generalist-models)
   - [Generalist Agents in Both Virtual and Physical Worlds](#generalist-agents-in-both-virtual-and-physical-worlds)
   - [Generalist Embodied Agents](#embodied-agents)
   - [Generalist Web Agents](#generalist-web-agents)
@@ -40,6 +39,7 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 | Dec 2024 | RoboVLMs | [Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models](https://arxiv.org/abs/2412.14058) | ArXiv'24 | [Project](https://robovlms.github.io/) |
 | Dec 2024 | Moto | [Moto: Latent Motion Token as the Bridging Language for Robot Manipulation](https://arxiv.org/abs/2412.04445) | ArXiv'24 | [Project](https://chenyi99.github.io/moto/) |
 | Dec 2024 | TraceVLA | [TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies](https://arxiv.org/abs/2412.10345) | ArXiv'24 | [Project](https://tracevla.github.io/) |
+| Dec 2024 | NaVILA | [NaVILA: Legged Robot Vision-Language-Action Model for Navigation](https://arxiv.org/abs/2412.04453) | ArXiv'24 | [Project](https://navila-bot.github.io/) |
 
 
 ### Other Generalist Policies
