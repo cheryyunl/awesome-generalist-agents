@@ -40,16 +40,21 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 | Dec 2024 | Moto | [Moto: Latent Motion Token as the Bridging Language for Robot Manipulation](https://arxiv.org/abs/2412.04445) | ArXiv'24 | [Project](https://chenyi99.github.io/moto/) |
 | Dec 2024 | TraceVLA | [TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies](https://arxiv.org/abs/2412.10345) | ArXiv'24 | [Project](https://tracevla.github.io/) |
 | Dec 2024 | NaVILA | [NaVILA: Legged Robot Vision-Language-Action Model for Navigation](https://arxiv.org/abs/2412.04453) | ArXiv'24 | [Project](https://navila-bot.github.io/) |
+| Jan 2025 | FAST | [FAST: Efficient Action Tokenization for Vision-Language-Action Models](https://www.pi.website/download/fast.pdf) | ArXiv'25 | [Project](https://www.pi.website/research/fast) |
 
 
 ### Other Generalist Policies
 
 |  Date |       keywords          | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| Aug 2024 | Crossformer | [Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation](https://arxiv.org/abs/2408.11812) | CORL'24 | [Project](https://crossformer-model.github.io/) |
+| Sep 2024 | HPT | [Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers](https://arxiv.org/abs/2409.20537) | NeurIPS'24 | [Project](https://liruiw.github.io/hpt/) |
 | Sep 2024 | RUMs | [Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments](https://arxiv.org/abs/2409.05865) | ArXiv'24 | [Project](https://robotutilitymodels.com/) |
 | Sep 2024 | FLaRe | [FLaRe: Achieving Masterful and Adaptive Robot Policies with Large-Scale Reinforcement Learning Fine-Tuning](https://arxiv.org/abs/2409.16578) | ArXiv'24 | [Project](https://robot-flare.github.io/) |
+| Sep 2024 | Neural MP | [Neural MP: A Generalist Neural Motion Planner](https://arxiv.org/abs/2409.05864) | ArXiv'24 | [Project](https://mihdalal.github.io/neuralmotionplanner/) |
 | Oct 2024 | Law in IL | [Data Scaling Laws in Imitation Learning for Robotic Manipulation](https://arxiv.org/abs/2410.18647) | ArXiv'24 | [Project](https://data-scaling-laws.github.io/) |
-
+| Dec 2024 | RING | [The One RING: a Robotic Indoor Navigation Generalist](https://arxiv.org/abs/2412.14401) | ArXiv'24 | [Project](https://one-ring-policy.allen.ai/) |
+| Jan 2025 | FUSE | [Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding](https://arxiv.org/abs/2501.04693) | ArXiv'25 | [Project](https://fuse-model.github.io/) |
 
 
 ### Multimodal World Models
@@ -106,6 +111,7 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 ### For Embodied Agents
 |  Date |       keywords          | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| May 2024 | Simpler | [Evaluating Real-World Robot Manipulation Policies in Simulation](https://arxiv.org/abs/2405.05941) | ArXiv'24 | [Project](https://simpler-env.github.io/) |
 | Oct 2023 | Open X-Embodiment | [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864) | ArXiv'24 | [Project](https://robotics-transformer-x.github.io/) |
 | Dec 2024 | RoboMIND | [RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation](https://arxiv.org/abs/2412.13877) | ArXiv'24 | [Project](https://x-humanoid-robomind.github.io/) |
 | Dec 2024 | VLABench | [VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks](https://arxiv.org/abs/2412.18194) | ArXiv'24 | [Project](https://vlabench.github.io/) |
