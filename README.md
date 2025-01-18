@@ -31,6 +31,8 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 | Mar 2024 | 3D-VLA | [3D-VLA: A 3D Vision-Language-Action Generative World Model](https://arxiv.org/abs/2403.09631) | ICML'24 | [Project](https://vis-www.cs.umass.edu/3dvla) |
 | May 2024 | Octo | [Octo: An Open-Source Generalist Robot Policy](https://arxiv.org/abs/2403.09618) | ArXiv'24 | [Project](https://octo-models.github.io/) |
 | Jun 2024 | OpenVLA | [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/abs/2406.09246) | CORL'24 | [Project](https://openvla.github.io/) |
+| Jun 2024 | RoboUniView | [RoboUniView: Visual-Language Model with Unified View Representation for Robotic Manipulation](https://arxiv.org/abs/2406.18977) | ArXiv'24 | [Project](https://liufanfanlff.github.io/RoboUniview.github.io/) |
+| Jul 2024 | Embodied-CoT | [Robotic Control via Embodied Chain-of-Thought Reasoning](https://arxiv.org/abs/2407.08693) | ArXiv'24 | [Project](https://embodied-cot.github.io/) |
 | Jun 2024 | LLARVA | [LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning](https://arxiv.org/abs/2406.11815) | ArXiv'24 | [Project](https://llarva24.github.io/) |
 | Sep 2024 | TinyVLA | [TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/abs/2409.12514) | ArXiv'24 | [Project](https://tiny-vla.github.io/) |
 | Oct 2024 | GR-2 | [GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation](https://arxiv.org/abs/2410.06158) | ArXiv'24 | [Project](https://gr2-manipulation.github.io/) |
@@ -38,6 +40,7 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 | Oct 2024 | π0 | [π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/abs/2410.24164) | ArXiv'24 | [Project](https://www.physicalintelligence.company/blog/pi0) |
 | Oct 2024 | RDT-1B | [RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation](https://arxiv.org/abs/2410.07864) | ArXiv'24 | [Project](https://rdt-robotics.github.io/rdt-robotics/) |
 | Nov 2024 | CogACT | [CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation](https://arxiv.org/abs/2411.xxxxx) | ArXiv'24 | [Project](https://cogact.github.io/) |
+| Nov 2024 | DeeR-VLA | [DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution](https://arxiv.org/abs/2411.02359) | ArXiv'24 | [Project](https://github.com/yueyang130/DeeR-VLA) |
 | Nov 2024 | RT-Affordance | [RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation](https://arxiv.org/abs/2411.02704) | ArXiv'24 | [Project](https://snasiriany.me/rt-affordance) |
 | Dec 2024 | Diffusion-VLA | [Diffusion-VLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression](https://arxiv.org/abs/2412.03293) | ArXiv'24 | [Project](https://diffusion-vla.github.io/) |
 | Dec 2024 | RoboVLMs | [Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models](https://arxiv.org/abs/2412.14058) | ArXiv'24 | [Project](https://robovlms.github.io/) |
@@ -52,6 +55,8 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 |  Date |       keywords          | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
 | Apr 2021 | Mt-Opt | [Mt-Opt: Continuous Multi-Task Robotic Reinforcement Learning at Scale](https://arxiv.org/abs/2104.08212) | ArXiv'21 | [Project](https://karolhausman.github.io/mt-opt/) |
+| Jan 2023 | UniPi | [Learning Universal Policies via Text-Guided Video Generation](https://arxiv.org/abs/2302.00111) | NeurIPS'23 | [Project](https://universal-policy.github.io/unipi/) |
+| Mar 2023 | MOO | [Open-World Object Manipulation using Pre-trained Vision-Language Models](https://arxiv.org/abs/2303.00905) | CoRL'23 | [Project](https://robot-moo.github.io/) |
 | Jun 2023 | RoboCat | [RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation](https://arxiv.org/abs/2306.11706) | ArXiv'23 | [Report](https://deepmind.google/discover/blog/robocat-a-self-improving-robotic-agent/) |
 | Sep 2023 | RoboAgent | [RoboAgent: Generalization and Efficiency in Robot Manipulation via Semantic Augmentations and Action Chunking](https://arxiv.org/abs/2309.01918) | ICRA'24 | [Project](https://robopen.github.io/) |
 | Feb 2024 | Extreme Cross-Embodiment | [Pushing the Limits of Cross-Embodiment Learning for Manipulation and Navigation](https://arxiv.org/abs/2402.19432) | RSS'24 | [Project](https://extreme-cross-embodiment.github.io/) |
