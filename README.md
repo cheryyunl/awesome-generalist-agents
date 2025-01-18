@@ -141,6 +141,7 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 | Oct 2024 | GenSim2 | [GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs](https://arxiv.org/abs/2410.03645) | CORL'24 | [Project](https://gensim2.github.io/) |
 | Dec 2024 | RoboMIND | [RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation](https://arxiv.org/abs/2412.13877) | ArXiv'24 | [Project](https://x-humanoid-robomind.github.io/) |
 | Dec 2024 | VLABench | [VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks](https://arxiv.org/abs/2412.18194) | ArXiv'24 | [Project](https://vlabench.github.io/) |
+| Jan 2024 | MuJoCo Playground | [MuJoCo Playground](https://playground.mujoco.org/assets/playground_technical_report.pdf) | Report'24 | [Project](https://playground.mujoco.org/) |
 
 
 ### For Web Agents
