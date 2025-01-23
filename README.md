@@ -89,6 +89,7 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 | Dec 2023 | LARP | [LARP: Language-Agent Role Play for Open-World Games](https://arxiv.org/abs/2312.17653) | ArXiv'23 | [Project](https://miao-ai-lab.github.io/LARP/) |
 | Mar 2024 | SIMA | [Scaling Instructable Agents Across Many Simulated Worlds](https://arxiv.org/abs/2404.10179) | ArXiv'24 | [Report](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/?utm_source=twitter&utm_medium=social&utm_campaign=SIMA/) |
 | Aug 2024 | Optimus-1 | [Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks](https://arxiv.org/abs/2408.03615) | ArXiv'24 | [Project](https://cybertronagent.github.io/Optimus-1.github.io/) |
+| Jan 2025 | UI-TARS | [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/abs/2501.12326) | ArXiv'25 | [Project](https://github.com/bytedance/UI-TARS) |
 
 
 
