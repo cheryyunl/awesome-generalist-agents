@@ -48,7 +48,7 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 | Dec 2024 | TraceVLA | [TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies](https://arxiv.org/abs/2412.10345) | ArXiv'24 | [Project](https://tracevla.github.io/) |
 | Dec 2024 | NaVILA | [NaVILA: Legged Robot Vision-Language-Action Model for Navigation](https://arxiv.org/abs/2412.04453) | ArXiv'24 | [Project](https://navila-bot.github.io/) |
 | Jan 2025 | FAST | [FAST: Efficient Action Tokenization for Vision-Language-Action Models](https://www.pi.website/download/fast.pdf) | ArXiv'25 | [Project](https://www.pi.website/research/fast) |
-| Feb 2025 | [DexVLA DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control](https://arxiv.org/abs/2502.05855) | ArXiv'25 | [Project](https://dex-vla.github.io/) |
+| Feb 2025 | DexVLA | [DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control](https://arxiv.org/abs/2502.05855) | ArXiv'25 | [Project](https://dex-vla.github.io/) |
 
 
 ### Generalist Robotics Policies
