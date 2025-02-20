@@ -15,7 +15,7 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 | :-----: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
 | May 2022 | Gato | [A Generalist Agent](https://arxiv.org/abs/2205.06175) | TMLR'22 | [Report](https://deepmind.google/discover/blog/a-generalist-agent/) |
 | Feb 2024 | Interactive Agent Foundation Model | [An Interactive Agent Foundation Model](https://arxiv.org/abs/2402.05929) | ArXiv'24 | [Report](https://www.microsoft.com/en-us/research/publication/interactive-agent-foundation-model/) |
-
+| Feb 2025 | Magma | [Magma: A Foundation Model for Multimodal AI Agents](https://arxiv.org/abs/2502.13130) | ArXiv'25 | [Project](https://github.com/microsoft/Magma) |
 
 
 ## Generalist Embodied Agents
@@ -48,6 +48,7 @@ A curated list of papers for generalist AI agents in both virtual and physical w
 | Dec 2024 | TraceVLA | [TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies](https://arxiv.org/abs/2412.10345) | ArXiv'24 | [Project](https://tracevla.github.io/) |
 | Dec 2024 | NaVILA | [NaVILA: Legged Robot Vision-Language-Action Model for Navigation](https://arxiv.org/abs/2412.04453) | ArXiv'24 | [Project](https://navila-bot.github.io/) |
 | Jan 2025 | FAST | [FAST: Efficient Action Tokenization for Vision-Language-Action Models](https://www.pi.website/download/fast.pdf) | ArXiv'25 | [Project](https://www.pi.website/research/fast) |
+| Feb 2025 | [DexVLA DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control](https://arxiv.org/abs/2502.05855) | ArXiv'25 | [Project](https://dex-vla.github.io/) |
 
 
 ### Generalist Robotics Policies
